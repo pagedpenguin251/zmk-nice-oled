@@ -1,4 +1,4 @@
-name: "nice!oled"
+name:
 build:
   settings:
     board_root: .
